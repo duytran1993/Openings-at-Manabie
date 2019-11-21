@@ -4,11 +4,11 @@ We are Manabie - An Edtech from Singapore, in our way to change the Education la
 
 **Our Tech Stack:**
 
-- Mobile: Flutter
+- *Mobile:* Flutter
 
-- Backend: Golang/ NodeJs
+- *Backend:* Golang/ NodeJs
 
-- Frontend: ReactJs/ VueJs
+- *Frontend:* ReactJs/ VueJs
 
 **Contact me via:**
 
