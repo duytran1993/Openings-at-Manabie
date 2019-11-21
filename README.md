@@ -18,3 +18,5 @@ We are Manabie - An Edtech from Singapore, in our way to change the Education la
 
 - Tel: *0915 342 782*
 
+![Our Team](https://media.licdn.com/dms/image/C5122AQFYGa2YvJuiVg/feedshare-shrink_2048_1536/0?e=1577318400&v=beta&t=2vx1FI0XveMPsNDJqWhwOE4YfjYx7KnD8CuW-H2JOY4)
+
