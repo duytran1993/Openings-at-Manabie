@@ -1,6 +1,6 @@
 # Openings-at-Manabie
 
-We are Manabie - An Edtech from Singapore, in our way to change the Education landscape in Vietnam and ASIA through cutting edge Technology!
+We are Manabie - An Edtech from Singapore, recognized as one of the most innovating Edtech company in ASIA, and with current funding round, we are expanding!
 
 **Our Tech Stack:**
 
